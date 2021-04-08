@@ -1,4 +1,4 @@
-### Hi there 👋, my name is JAYBLA
+## Hi Buddy, my name is JAYBLA
 ![](https://github.com/JAYBLA/jaybla/blob/main/GIT%20PREVIEW%20BANNER.png)
 
 I'm a web developer fromTanzania. I do web design and web development both frontend and backend. I like sharing skills with others too through open source community projects.
