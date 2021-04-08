@@ -1,9 +1,8 @@
-# Hi there 👋, my name is JAYBLA
+### Hi there 👋, my name is JAYBLA
 ![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I'm a web developer fromTanzania. I do web design and web development both frontend and backend. I like sharing skills with others too through open source community projects.
 
-## SKILLS AND EXPERIENCE
 Skills: PYTHON/ DJANGO/NODE JS / ANGULAR / JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
@@ -13,5 +12,5 @@ Skills: PYTHON/ DJANGO/NODE JS / ANGULAR / JS / HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JAYBLA&show_icons=true&count_private=true)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=JAYBLA)  
+
 
