@@ -1,4 +1,4 @@
-### Hi there 👋, my name is JAYBLA
+# Hi there 👋, my name is JAYBLA
 ![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I'm a web developer fromTanzania. I do web design and web development both frontend and backend. I like sharing skills with others too through open source community projects.
