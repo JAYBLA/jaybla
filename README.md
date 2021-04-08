@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is JAYBLA
-![](https://scontent.fdar5-1.fna.fbcdn.net/v/t1.6435-9/48373680_454411575088011_1895788621605109760_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=e3f864&_nc_eui2=AeGK27YOFSd4_kwI6CbOlEeS2QxEFdfXtSrZDEQV19e1KnCvaV4K57G7wYizmUGw1Jt9VA6aMJF6rb8_YAI6EsPK&_nc_ohc=xhDnd_eexGUAX8KlNCF&_nc_ht=scontent.fdar5-1.fna&oh=cf90f3cf4a6aac2a9b440e2b5476b6ef&oe=609556CD)
+![](https://github.com/JAYBLA/jaybla/blob/main/GIT%20PREVIEW%20BANNER.png)
 
 I'm a web developer fromTanzania. I do web design and web development both frontend and backend. I like sharing skills with others too through open source community projects.
 
